@@ -568,14 +568,10 @@ Features:
     Contact Form
 ```
 
-<p align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge"/>
-</a>
 
 <a href="YOUR_PORTFOLIO_REPOSITORY">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<img src="[https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github](https://github.com/Gaya3inGithub/Porfolio_Development)"/>
 </a>
 
 </p>
