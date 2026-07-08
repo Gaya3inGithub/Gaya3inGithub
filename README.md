@@ -1,174 +1,392 @@
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
+
 <div align="center">
 
-# Gayathri T
+# GAYATHRI T
 
-### Java Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Backend+Applications;Spring+Boot+Developer;Creating+REST+APIs;Learning+System+Design;Always+Building+Something+New" />
+### JAVA FULL STACK DEVELOPER
 
 <br>
 
-Building scalable backend applications with **Java**, **Spring Boot**, **React**, and **MySQL**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Building+Backend+Applications;Spring+Boot+Developer;Creating+REST+APIs;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-## 🖥 Developer Dashboard
+<div align="center">
 
-| | |
-|:--|:--|
-| 👤 **Name** | Gayathri T |
-| 💼 **Role** | Java Full Stack Developer |
-| 📍 **Location** | Chennai, India |
-| 🎓 **Education** | BE Computer Science Engineering (2024) |
-| 🌱 **Learning** | Spring Boot, React, System Design |
-| 🎯 **Current Goal** | Building production-ready Full Stack Applications |
-| 💬 **Languages** | Java, JavaScript, SQL |
-| ⚡ **Interests** | Backend Engineering • Clean Architecture • REST APIs |
+> Building scalable backend applications with Java and creating modern web experiences.
 
----
+</div>
 
-## 💭 Philosophy
+<br>
 
-> *"Write clean code, build meaningful software, and keep learning every day."*
+<!-- ========================= -->
+<!--      STATUS BAR           -->
+<!-- ========================= -->
 
----
-## 👨‍💻 About Me
-
-I'm a **Java Full Stack Developer** passionate about building reliable backend systems and clean web applications.
-
-I enjoy solving real-world problems through software and continuously improving my development skills by building projects, exploring new technologies, and writing maintainable code.
-
-My primary focus is on creating scalable applications using Java and Spring Boot while expanding my knowledge in frontend development and system design.
-
----
-
-## 🎯 Current Focus
+# SYSTEM STATUS
 
 <table>
+
 <tr>
-<td width="50%">
 
-### 🚀 Building
+<td width="25%" align="center">
 
-- Java Full Stack Applications
-- RESTful APIs
-- CRUD Projects
-- Portfolio Enhancements
+🟢
+
+### STATUS
+
+Available
+
+</td>
+
+<td width="25%" align="center">
+
+💼
+
+### ROLE
+
+Java Developer
 
 </td>
 
-<td width="50%">
+<td width="25%" align="center">
 
-### 📚 Learning
+📍
 
-- Spring Boot
-- React
-- System Design
-- DSA
+### LOCATION
+
+Chennai
 
 </td>
+
+<td width="25%" align="center">
+
+🎓
+
+### EDUCATION
+
+BE CSE
+
+</td>
+
 </tr>
+
 </table>
 
 ---
 
-## 📈 Learning Journey
-
-```text
-Java                 ████████████████████ 95%
-
-Spring Boot          ████████████████░░░░ 80%
-
-MySQL                █████████████████░░░ 85%
-
-React                ██████████████░░░░░░ 70%
-
-REST APIs            █████████████████░░░ 85%
-
-Git & GitHub         ███████████████░░░░░ 75%
-
-System Design        ████████░░░░░░░░░░░░ 40%
-```
-
----
-
-## 💼 What I'm Looking For
-
-✔ Java Developer
-
-✔ Backend Developer
-
-✔ Full Stack Developer
-
-✔ Software Engineer
-
-✔ Opportunities to build impactful products
-
----
-
-## 🌟 Core Values
+# INITIALIZE()
 
 ```java
-public class DeveloperMindset {
+public class Developer {
 
-    private final String[] values = {
+    String name = "Gayathri T";
 
-        "Write Clean Code",
+    String role = "Java Full Stack Developer";
 
-        "Never Stop Learning",
+    String location = "Chennai";
 
-        "Build Real Projects",
+    boolean openToWork = true;
 
-        "Solve Problems",
-
-        "Keep Improving"
-
-    };
+    String currentFocus =
+            "Spring Boot + Backend Development";
 
 }
 ```
 
 ---
-# 🛠 Tech Stack
+
+# DASHBOARD
+
+```yaml
+Developer:
+    Name:
+        Gayathri T
+
+    Experience:
+        Java Full Stack
+
+    Backend:
+        Java
+        Spring Boot
+        REST APIs
+
+    Frontend:
+        React
+        Tailwind CSS
+
+    Database:
+        MySQL
+
+    Learning:
+        System Design
+```
+
+---
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Building software.
+
+Learning continuously.
+
+Growing every day.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+---
+<!-- ========================================= -->
+<!--          DEVELOPER CONSOLE                -->
+<!-- ========================================= -->
+
+# 🖥 Developer Console
+
+```console
+> whoami
+
+Gayathri T
+
+> role
+
+Java Full Stack Developer
+
+> location
+
+Chennai, Tamil Nadu
+
+> education
+
+BE Computer Science Engineering (2024)
+
+> currently_learning
+
+Spring Boot
+React
+System Design
+
+> current_goal
+
+Build production-ready Java applications
+
+> open_to_work
+
+true
+
+> status
+
+Learning...
+```
+
+---
+
+# CURRENT SESSION
 
 <table>
 
 <tr>
 
-<td width="25%" align="center">
+<td width="50%">
 
-### ☕ Backend
+## 🚀 Active Development
 
-<br>
+```text
+Backend APIs
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven" />
+███████████████████████░░
 
-<br><br>
+Spring Boot
 
+████████████████████░░░░
+
+React
+
+███████████████░░░░░░░░░
+
+System Design
+
+████████░░░░░░░░░░░░░░░░
+```
+
+</td>
+
+<td width="50%">
+
+## 🎯 Current Objectives
+
+✔ Build scalable REST APIs
+
+✔ Improve backend architecture
+
+✔ Master Spring Boot
+
+✔ Write cleaner code
+
+✔ Practice DSA daily
+
+✔ Build portfolio projects
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# DEVELOPER PROFILE
+
+```yaml
+Name:
+    Gayathri T
+
+Role:
+    Java Full Stack Developer
+
+Primary Language:
+    Java
+
+Backend:
+    Spring Boot
+    REST APIs
+    Hibernate
+
+Frontend:
+    React
+    Tailwind CSS
+
+Database:
+    MySQL
+
+Version Control:
+    Git
+    GitHub
+
+IDE:
+    VS Code
+    Eclipse
+
+Current Mission:
+    Become a better software engineer every day.
+```
+
+---
+
+# BUILD PIPELINE
+
+```text
+Requirement
+     │
+     ▼
+
+Planning
+     │
+     ▼
+
+Development
+     │
+     ▼
+
+Testing
+     │
+     ▼
+
+Deployment
+     │
+     ▼
+
+Continuous Improvement
+```
+
+---
+
+<div align="center">
+
+## 💡 Development Philosophy
+
+*"Small improvements made consistently lead to big results."*
+
+</div>
+
+---
+
+# WORKSPACE
+
+| Environment | Status |
+|--------------|--------|
+| ☕ Java | 🟢 Active |
+| 🌱 Spring Boot | 🟢 Active |
+| ⚛ React | 🟡 Learning |
+| 🗄 MySQL | 🟢 Active |
+| 📚 System Design | 🔵 Exploring |
+| 🧠 DSA | 🟡 Practicing |
+
+---
+<!-- ========================================= -->
+<!--          TECHNOLOGY MATRIX                -->
+<!-- ========================================= -->
+
+# ⚙ Technology Matrix
+
+<div align="center">
+
+| Layer | Stack | Status |
+|:------:|:------|:------:|
+| ☕ Language | Java | 🟢 |
+| 🌱 Framework | Spring Boot | 🟢 |
+| 🔗 API | REST APIs | 🟢 |
+| 🗄 Database | MySQL | 🟢 |
+| ⚛ Frontend | React | 🟡 |
+| 🎨 Styling | Tailwind CSS | 🟢 |
+| 🔄 Version Control | Git & GitHub | 🟢 |
+| 🧪 API Testing | Postman | 🟢 |
+| 🖥 IDE | VS Code • Eclipse | 🟢 |
+
+</div>
+
+---
+
+# 📦 Technology Overview
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+## ☕ Backend
+
+```text
 Java
 
 Spring Boot
 
-JDBC
+Spring MVC
 
 Hibernate
 
+JDBC
+
 REST APIs
+
+Maven
+```
 
 </td>
 
-<td width="25%" align="center">
+<td width="33%">
 
-### 🎨 Frontend
+## ⚛ Frontend
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
-
-<br><br>
-
+```text
 React
 
 HTML5
@@ -179,49 +397,26 @@ JavaScript
 
 Tailwind CSS
 
+Responsive UI
+```
+
 </td>
 
-<td width="25%" align="center">
+<td width="33%">
 
-### 🗄 Database
+## 🗄 Database
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<br><br>
-
+```text
 MySQL
 
 SQL
 
-Database Design
-
-Normalization
-
 JPA
 
-</td>
+Database Design
 
-<td width="25%" align="center">
-
-### ⚙ Tools
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse" />
-
-<br><br>
-
-Git
-
-GitHub
-
-VS Code
-
-Postman
-
-Eclipse
+CRUD Operations
+```
 
 </td>
 
@@ -231,229 +426,426 @@ Eclipse
 
 ---
 
-# 💻 Development Environment
-
-| Category | Technologies |
-|-----------|--------------|
-| **Languages** | Java • JavaScript • SQL |
-| **Frameworks** | Spring Boot • Spring MVC • Hibernate |
-| **Frontend** | React • HTML • CSS • Tailwind CSS |
-| **Database** | MySQL |
-| **Version Control** | Git • GitHub |
-| **API Testing** | Postman |
-| **IDE** | VS Code • Eclipse |
-
----
-
-# ⚡ What I Enjoy Building
+# 📊 Development Metrics
 
 ```text
-✔ REST APIs
+Backend Development
 
-✔ Backend Systems
+██████████████████████████░░ 90%
 
-✔ CRUD Applications
+Frontend Development
 
-✔ Authentication Modules
+███████████████████░░░░░░░░░ 72%
 
-✔ Database Driven Applications
+Database
 
-✔ Responsive User Interfaces
+██████████████████████░░░░░░ 82%
 
-✔ Full Stack Projects
+Problem Solving
 
-✔ Clean Architecture
+██████████████████░░░░░░░░░░ 74%
+
+Clean Architecture
+
+███████████████░░░░░░░░░░░░░ 65%
 ```
 
 ---
 
-# 📦 Currently Exploring
-
-<div align="center">
-
-| 🌱 Learning | 🚀 Improving |
-|-------------|--------------|
-| Spring Boot | Backend Design |
-| React | API Development |
-| System Design | Problem Solving |
-| Clean Code | Software Architecture |
-
-</div>
-
----
-
-# 📊 Skill Distribution
-
-```text
-Backend Development      ████████████████████████ 90%
-
-Frontend Development     ████████████████░░░░░░░ 70%
-
-Database                 ███████████████████░░░░ 80%
-
-Problem Solving          ███████████████░░░░░░░░ 72%
-
-Software Design          █████████████░░░░░░░░░░ 65%
-```
-
----
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🌐 Developer Portfolio
-
-A modern responsive portfolio showcasing my skills, projects, and journey as a Java Full Stack Developer.
-
-**Highlights**
-
-- Responsive Design
-- Dark UI
-- Smooth Animations
-- Modern Components
-
-**Tech Stack**
-
-`React` `TypeScript` `Tailwind CSS` `Framer Motion`
-
-🔗 **Live Demo:** *(Add your portfolio link)*
-
-📂 **Repository:** *(Add repository link)*
-
-</td>
-
-<td width="50%">
-
-## 👨‍👩‍👧 Parent Linker
-
-A web application focused on improving communication and connectivity through a structured full stack implementation.
-
-**Highlights**
-
-- Authentication
-- Database Integration
-- Responsive UI
-- CRUD Operations
-
-**Tech Stack**
-
-`Java` `MySQL` `HTML` `CSS` `JavaScript`
-
-📂 **Repository:** *(Add repository link)*
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📦 Product Tracker
-
-A Core Java application for managing products with a clean object-oriented approach.
-
-**Highlights**
-
-- Product Management
-- Collections Framework
-- File Handling
-- OOP Principles
-
-**Tech Stack**
-
-`Java` `Collections` `File Handling`
-
-📂 **Repository:** *(Add repository link)*
-
-</td>
-
-<td width="50%">
-
-## ⚙ Spring Boot CRUD API
-
-A RESTful CRUD application built using Spring Boot with MySQL integration.
-
-**Highlights**
-
-- REST APIs
-- CRUD Operations
-- Layered Architecture
-- Exception Handling
-
-**Tech Stack**
-
-`Spring Boot` `MySQL` `JPA` `REST API`
-
-📂 **Repository:** *(Add repository link)*
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📌 Development Highlights
-
-✔ Built Full Stack Web Applications
-
-✔ Designed RESTful APIs using Spring Boot
-
-✔ Developed Responsive User Interfaces
-
-✔ Worked with Relational Databases
-
-✔ Applied Object-Oriented Programming Concepts
-
-✔ Practiced Clean Code Principles
-
----
-
-# 📈 Development Timeline
-
-```text
-2020 ─────────────── Started BE (CSE)
-
-2023 ─────────────── Internships
-
-2024 ─────────────── Java Full Stack Learning
-
-2025 ─────────────── Building Full Stack Projects
-
-2026 ─────────────── Expanding Backend Skills
-```
-
----
-
-# 💡 Development Principles
+# 🧠 Engineering Principles
 
 ```java
-class Developer {
+class Engineering {
 
-    void build() {
-        writeCleanCode();
-        learnContinuously();
-        solveProblems();
-        improveEveryDay();
-    }
+    private final String[] principles = {
+
+        "Write Clean Code",
+
+        "Keep Components Reusable",
+
+        "Build Scalable APIs",
+
+        "Think Before Coding",
+
+        "Learn Continuously",
+
+        "Refactor Frequently"
+
+    };
 
 }
 ```
 
 ---
-# 📊 GitHub Analytics
+
+# 📂 Workspace Structure
+
+```text
+workspace/
+
+├── backend/
+│   ├── java
+│   ├── spring
+│   ├── rest-api
+│   └── mysql
+│
+├── frontend/
+│   ├── react
+│   ├── tailwind
+│   └── javascript
+│
+├── tools/
+│   ├── git
+│   ├── github
+│   └── postman
+│
+└── learning/
+    ├── system-design
+    ├── dsa
+    └── architecture
+```
+
+---
+
+# 🔥 Current Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaya3inGithub&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+| Backend | Frontend | Database | Tools |
+|----------|----------|----------|-------|
+| Java | React | MySQL | Git |
+| Spring Boot | Tailwind CSS | SQL | GitHub |
+| Hibernate | JavaScript | JPA | VS Code |
+| REST API | HTML5 | JDBC | Eclipse |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaya3inGithub&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Powered By
+
+**Java** • **Spring Boot** • **React** • **MySQL**
+
+Building software with simplicity, scalability, and clean architecture.
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--            FEATURED PROJECTS              -->
+<!-- ========================================= -->
+
+# 🚀 Project Workspace
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Portfolio Website
+
+```yaml
+Status:
+    🟢 Live
+
+Category:
+    Personal Branding
+
+Built With:
+    React
+    TypeScript
+    Tailwind CSS
+    Framer Motion
+
+Features:
+    Responsive UI
+    Smooth Animations
+    Project Showcase
+    Resume Download
+    Contact Form
+```
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_REPOSITORY">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 👨‍👩‍👧 Parent Linker
+
+```yaml
+Status:
+    ✅ Completed
+
+Category:
+    Full Stack Application
+
+Built With:
+    Java
+    MySQL
+    HTML
+    CSS
+    JavaScript
+
+Features:
+    Authentication
+    CRUD
+    Database Integration
+    Responsive Interface
+```
+
+<p align="center">
+
+<a href="YOUR_PARENTLINKER_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📦 Product Tracker
+
+```yaml
+Status:
+    ✅ Completed
+
+Category:
+    Java Application
+
+Built With:
+    Java
+    Collections
+    OOP
+
+Features:
+    Product Management
+    Search
+    Update
+    Delete
+```
+
+<p align="center">
+
+<a href="YOUR_PRODUCT_TRACKER_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚙ Spring Boot CRUD
+
+```yaml
+Status:
+    🟢 Active
+
+Category:
+    Backend Development
+
+Built With:
+    Spring Boot
+    MySQL
+    Hibernate
+    REST APIs
+
+Features:
+    CRUD Operations
+    Layered Architecture
+    Exception Handling
+```
+
+<p align="center">
+
+<a href="YOUR_CRUD_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📂 Project Timeline
+
+```text
+2023
+
+├── IoT Internship
+├── Web Development Internship
+
+2024
+
+├── Java Full Stack Learning
+├── Product Tracker
+├── Parent Linker
+
+2025
+
+├── Portfolio Website
+├── Spring Boot CRUD
+
+2026
+
+├── Advanced Backend Projects
+├── System Design
+└── Open Source Journey
+```
+
+---
+
+# 🏗 Current Workspace
+
+```text
+workspace/
+
+📁 portfolio
+    └── active
+
+📁 springboot-crud
+    └── active
+
+📁 parent-linker
+    └── completed
+
+📁 product-tracker
+    └── completed
+
+📁 learning
+    ├── system-design
+    ├── dsa
+    └── spring-security
+```
+
+---
+
+# 📌 Development Workflow
+
+```text
+Idea
+ │
+ ▼
+Research
+ │
+ ▼
+Planning
+ │
+ ▼
+Development
+ │
+ ▼
+Testing
+ │
+ ▼
+Deployment
+ │
+ ▼
+Continuous Improvement
+```
+
+---
+
+<div align="center">
+
+### 💻 Every project is an opportunity to learn something new.
+
+</div>
+
+---
+<!-- ========================================= -->
+<!--         DEVELOPER DASHBOARD               -->
+<!-- ========================================= -->
+
+# 📊 Developer Dashboard
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="25%" align="center">
+
+### 🚀 Focus
+
+Backend
+
+Development
+
+</td>
+
+<td width="25%" align="center">
+
+### 📚 Learning
+
+Spring Boot
+
+System Design
+
+</td>
+
+<td width="25%" align="center">
+
+### 💼 Goal
+
+Software
+
+Engineer
+
+</td>
+
+<td width="25%" align="center">
+
+### 🌱 Status
+
+Always
+
+Learning
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📈 GitHub Performance
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaya3inGithub&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaya3inGithub&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </div>
 
@@ -461,13 +853,13 @@ class Developer {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Gaya3inGithub&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=Gaya3inGithub&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+# 📉 Coding Activity
 
 <div align="center">
 
@@ -477,7 +869,34 @@ class Developer {
 
 ---
 
-# 🏆 Developer Snapshot
+# 🎯 Current Roadmap
+
+```text
+JAVA
+███████████████████████████
+
+SPRING BOOT
+█████████████████████░░░░░░
+
+REST APIs
+███████████████████████░░░░
+
+REACT
+██████████████████░░░░░░░░░
+
+SYSTEM DESIGN
+███████████░░░░░░░░░░░░░░░░
+
+DOCKER
+██████░░░░░░░░░░░░░░░░░░░░░
+
+AWS
+████░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+---
+
+# 🏆 Highlights
 
 <table>
 
@@ -485,17 +904,31 @@ class Developer {
 
 <td align="center">
 
-### 💻 Backend
+☕
 
-Building scalable Java applications using Spring Boot and REST APIs.
+### Backend
+
+Building Java & Spring Boot applications.
 
 </td>
 
 <td align="center">
 
-### 🎨 Frontend
+⚛
 
-Creating clean and responsive interfaces using React and Tailwind CSS.
+### Frontend
+
+Developing responsive React interfaces.
+
+</td>
+
+<td align="center">
+
+🗄
+
+### Database
+
+Designing efficient MySQL solutions.
 
 </td>
 
@@ -505,17 +938,31 @@ Creating clean and responsive interfaces using React and Tailwind CSS.
 
 <td align="center">
 
-### 🗄 Database
+🧩
 
-Working with MySQL, JPA and efficient database design.
+### Problem Solving
+
+Practicing DSA regularly.
 
 </td>
 
 <td align="center">
 
-### 🌱 Learning
+📚
 
-Continuously improving System Design, DSA and Backend Architecture.
+### Continuous Learning
+
+Exploring architecture and system design.
+
+</td>
+
+<td align="center">
+
+🚀
+
+### Future
+
+Cloud, Microservices & Scalable Systems.
 
 </td>
 
@@ -525,135 +972,123 @@ Continuously improving System Design, DSA and Backend Architecture.
 
 ---
 
-# 🎯 2026 Goals
+# ⚙ Build Status
 
-- 🚀 Build production-ready Spring Boot applications
-- 📚 Master System Design fundamentals
-- ⚛ Develop advanced React projects
-- 🧩 Strengthen DSA and problem-solving
-- 🌐 Contribute to open-source projects
-- 💼 Secure a Software Engineer role
+```yaml
+Portfolio:
+    Completed
 
----
+Parent Linker:
+    Completed
 
-# 📚 Learning Roadmap
+Product Tracker:
+    Completed
 
-```text
-Java                 ██████████████████████
+Spring Boot CRUD:
+    Active
 
-Spring Boot          ███████████████████░░
+System Design:
+    Learning
 
-React                ███████████████░░░░░░
-
-REST APIs            ████████████████████░
-
-MySQL                ███████████████████░░
-
-System Design        ██████████░░░░░░░░░░░
-
-Docker               ██████░░░░░░░░░░░░░░░
-
-AWS                  ████░░░░░░░░░░░░░░░░░
+Backend Projects:
+    In Progress
 ```
 
 ---
 
-# ✨ Favorite Quote
-
 <div align="center">
 
-> **"Consistency builds confidence. Every project is another step forward."**
+## 💡 Progress isn't about perfection.
+
+### It's about becoming a better developer every day.
 
 </div>
 
 ---
-# 🌐 Connect With Me
+<!-- ========================================= -->
+<!--           COMMAND CENTER                  -->
+<!-- ========================================= -->
+
+# 🎛 Command Center
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Navigation
+
+| Destination | Link |
+|-------------|------|
+| 🌍 Portfolio | **Coming Soon** |
+| 💼 LinkedIn | **Add Your Profile** |
+| 📧 Email | tgayathri31122002@gmail.com |
+| 🐙 GitHub | github.com/Gaya3inGithub |
+
+</td>
+
+<td width="50%">
+
+## 🖥 System Monitor
+
+```text
+Developer Status
+
+██████████████████████████
+
+Learning
+
+██████████████████████████
+
+Building
+
+██████████████████████████
+
+Motivation
+
+██████████████████████████
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📬 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Gaya3inGithub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO-LINK">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:tgayathri31122002@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Gaya3inGithub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
 ---
 
-# 🌟 Coding Profiles
+# 📊 Visitor Counter
 
 <div align="center">
 
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="YOUR_HACKERRANK_LINK">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="YOUR_GFG_LINK">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Gaya3inGithub&style=for-the-badge&color=7C3AED"/>
 
 </div>
-
----
-
-# 📬 Open To
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-💼
-
-### Full Time
-
-Java Developer
-
-</td>
-
-<td align="center" width="33%">
-
-🚀
-
-### Backend
-
-Spring Boot
-
-REST APIs
-
-</td>
-
-<td align="center" width="33%">
-
-🌍
-
-### Collaboration
-
-Open Source
-
-Interesting Projects
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -667,188 +1102,43 @@ Interesting Projects
 
 ---
 
-# 👀 Profile Views
+# ⚡ Terminal
 
-<div align="center">
+```bash
+$ whoami
 
-<img src="https://komarev.com/ghpvc/?username=Gaya3inGithub&style=for-the-badge&color=8B5CF6"/>
+Gayathri T
 
-</div>
+$ role
 
----
+Java Full Stack Developer
 
-# ⚡ Fun Facts
+$ current_focus
 
-- ☕ Coffee + Java = Productive Day
-- 🚀 I enjoy building backend systems.
-- 📚 Every project teaches something new.
-- 💡 I believe clean code is maintainable code.
-- 🌱 Always learning and improving.
+Building scalable backend applications
 
----
+$ learning
 
-# 💻 Developer Mindset
+Spring Boot
+React
+System Design
 
-```java
-public class Growth {
+$ status
 
-    public static void main(String[] args) {
+Available for opportunities
 
-        while(true){
+$ exit
 
-            Learn();
-
-            Practice();
-
-            Build();
-
-            Improve();
-
-        }
-
-    }
-
-}
-```
-
----
-<br>
-
-<div align="center">
-
-# ✨ Thanks for Visiting
-
-<p>
-
-Thanks for taking the time to explore my GitHub profile.
-
-I'm always excited to learn new technologies, build meaningful software,
-and collaborate on interesting projects.
-
-</p>
-
-<br>
-
-### 💜 Let's Build Something Amazing Together
-
-</div>
-
----
-
-<div align="center">
-
-### 📌 Current Status
-
-🟢 Learning
-
-🟣 Building
-
-🟠 Exploring
-
-🔵 Growing
-
-</div>
-
----
-
-<div align="center">
-
-## ⚙ Developer Workflow
-
-</div>
-
-```text
-PLAN
-   │
-   ▼
-DESIGN
-   │
-   ▼
-CODE
-   │
-   ▼
-DEBUG
-   │
-   ▼
-TEST
-   │
-   ▼
-DEPLOY
-   │
-   ▼
-REPEAT
+See you again 👋
 ```
 
 ---
 
 <div align="center">
 
-## 📈 Personal Mission
+## ⭐ Thanks for visiting my profile!
 
-</div>
-
-> Build software that solves real problems.
->
-> Learn continuously.
->
-> Improve one step every day.
-
----
-
-<div align="center">
-
-## 🌌 Beyond Code
-
-</div>
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-💡
-
-### Learn
-
-Every project is an opportunity to grow.
-
-</td>
-
-<td align="center">
-
-🚀
-
-### Build
-
-Turn ideas into applications.
-
-</td>
-
-<td align="center">
-
-🎯
-
-### Improve
-
-Keep refining skills every single day.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-If you're looking for a **Java Full Stack Developer**, have an interesting project,
-or simply want to connect with another developer,
-
-**I'd love to hear from you.**
+*"Code with curiosity. Learn with consistency. Build with purpose."*
 
 </div>
 
@@ -856,17 +1146,7 @@ or simply want to connect with another developer,
 
 <div align="center">
 
-### ⭐ If you like my work,
-
-consider following my journey on GitHub.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=7C3AED&section=footer"/>
 
 </div>
 
