@@ -1,10 +1,14 @@
 <div align="center">
 
-# Gayathri T
+# 👋 Gayathri T
 
 ### Java Full Stack Developer
 
-Building scalable backend applications with Java, Spring Boot, MySQL and modern web technologies.
+> Designing scalable backend systems and modern web applications.
+
+<p>
+Building with Java • Spring Boot • React • MySQL
+</p>
 
 </div>
 
