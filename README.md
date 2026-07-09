@@ -567,13 +567,6 @@ Features:
     Resume Download
     Contact Form
 ```
-
-
-
-<a href="YOUR_PORTFOLIO_REPOSITORY">
-<img src="[https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github](https://github.com/Gaya3inGithub/Porfolio_Development)"/>
-</a>
-
 </p>
 
 </td>
@@ -604,10 +597,6 @@ Features:
 ```
 
 <p align="center">
-
-<a href="YOUR_PARENTLINKER_REPO">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </p>
 
@@ -642,10 +631,6 @@ Features:
 
 <p align="center">
 
-<a href="YOUR_PRODUCT_TRACKER_REPO">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
 </p>
 
 </td>
@@ -674,10 +659,6 @@ Features:
 ```
 
 <p align="center">
-
-<a href="YOUR_CRUD_REPO">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </p>
 
@@ -835,23 +816,6 @@ Learning
 
 ---
 
-# 📈 GitHub Performance
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaya3inGithub&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaya3inGithub&layout=compact&hide_border=true&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Gaya3inGithub&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -1058,11 +1022,11 @@ Motivation
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://porfolio-development.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/gayathri-t-20223921a">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -1086,17 +1050,8 @@ Motivation
 
 </div>
 
----
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gaya3inGithub/Gaya3inGithub/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # ⚡ Terminal
 
