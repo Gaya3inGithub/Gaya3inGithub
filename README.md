@@ -823,10 +823,9 @@ Learning
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaya3inGithub&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph-eight.vercel.app/graph?username=Gaya3inGithub&theme=tokyo-night&hide_border=true&color=C084FC&line=7C3AED&point=FFFFFF" alt="Contribution Graph" />
 
 </div>
-
 ---
 
 # 🎯 Current Roadmap
